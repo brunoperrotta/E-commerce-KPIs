@@ -1,4 +1,4 @@
-![Imagem de Fundo](foto-kpis.jpg)
+![Imagem de Fundo](cover-picture.jpg)
 
 # [E-commerce-KPIs](https://app.powerbi.com/view?r=eyJrIjoiM2EwNDJlMGQtMWJjNy00YjZhLWEzYTEtZmYxMjU2OGM3OGFjIiwidCI6Ijc5YWE0ZWFlLTk0MGMtNDc5Yy1hMjllLTk4YTczY2NhMzhlMiJ9)
 
